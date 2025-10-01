@@ -3,3 +3,5 @@ this naga s text file
 this data is written in local repo
 
 this line added directly in the remote repo
+
+this is second line added remote repo
