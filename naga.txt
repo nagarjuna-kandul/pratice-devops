@@ -9,3 +9,4 @@ this is second line added remote repo
 this is last git hub class
 this is demo class in the devops
 added the 2nd line
+this is git fetch class
